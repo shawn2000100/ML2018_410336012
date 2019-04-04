@@ -1,4 +1,4 @@
-# -ML2018_410336012_Final
+# ML2018_410336012_Final
 ## Term_Project Face Recognizer System
 
 ### 說明
